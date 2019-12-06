@@ -37,4 +37,11 @@ module.exports = {
     'react/sort-comp': 'off',
     'react/no-unused-state': 'off'
   },
+  settings: {
+      "import/resolver": {
+        'babel-plugin-root-import': {
+            rootPathSuffix: 'src',
+        },
+      }
+  }
 };
