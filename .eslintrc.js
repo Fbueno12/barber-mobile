@@ -37,7 +37,8 @@ module.exports = {
     'react/sort-comp': 'off',
     'react/no-unused-state': 'off',
     'react/jsx-props-no-spreading': 'off',
-    'no-undef': 'off'
+    'no-undef': 'off',
+    'react/prop-types': 'off'
   },
   settings: {
       "import/resolver": {
